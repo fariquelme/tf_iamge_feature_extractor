@@ -1,1 +1,1 @@
-# Synapse Project
+# Image Feature Extractor
